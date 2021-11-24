@@ -1,0 +1,14 @@
+{
+    "name": "node",
+    "version": "v16.13.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/xirab/lab_24_11.git"
+    },
+    "homepage": "https://github.com/xirab/lab_24_11#readme"
+  }
